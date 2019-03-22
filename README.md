@@ -19,3 +19,33 @@ two requirements.
 covering the left-most and right-most position on that row intersected by the edge of
 the pyramid,
 9. Any non-boundary area inside the shape must be filled with the '.' character.
+
+### Example
+
+1. 
+Input:
+6 6 4
+Output:
+
+     ######
+     #....#
+     #....#
+     #....#
+     #....#
+     ######
+2. 
+Input:
+7 4 4
+Output:
+
+     #######
+     #.....#
+     #.....#
+     #######
+     
+3. 
+Input:
+1 1 1
+Output:
+
+#
