@@ -44,8 +44,8 @@ Output:
      #######
      
 3. 
-Input:
-1 1 1
+Input: <br>
+1 1 1 <br>
 Output:
 
-#
+         #
