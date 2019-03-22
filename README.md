@@ -23,9 +23,9 @@ the pyramid,
 ### Example
 
 1. 
-Input:
-6 6 4
-Output:
+Input:<br>
+6 6 4<br>
+Output:<br>
 
      ######
      #....#
@@ -33,10 +33,10 @@ Output:
      #....#
      #....#
      ######
-2. 
-Input:
-7 4 4
-Output:
+2. <br>
+Input:<br>
+7 4 4<br>
+Output:<br>
 
      #######
      #.....#
